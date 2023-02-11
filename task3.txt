@@ -1,0 +1,26 @@
+
+        let resume = '{"name":"amuthan","DOB":"03 - 09 - 1995 ", "degree":"BE civil","father name":"raja","mothername":"rani"}'
+                          
+        
+
+screen 
+        it is used to display the output of the computer
+
+window 
+        it is opreting system (os) ex linex, window,android
+        which is manageing the computer hardware
+        OS it is intermediate between user and hardware
+
+
+
+javascript document
+                    when html document loaded in window it is converted to document object  
+
+
+
+   
+
+
+
+
+
